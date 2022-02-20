@@ -1,0 +1,53 @@
+BODY{
+  background-color:black ;
+}
+.h1-first-part{
+  color: #F7F6F2;
+  text-align: center;
+  margin: 15rem auto 0;
+}
+H2{
+  color: yellow;
+  text-align: left;
+  margin: auto;
+  margin-left: 2rem;
+}
+H3{
+  color: #F7F6F2;
+  text-align: center;
+  margin: auto;
+}
+H4{
+  color: #F7F6F2;
+  text-align: left;
+  margin:1rem 5rem;
+}
+.p-first-part{
+  color: #F7F6F2;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 15rem;
+}
+.last-part{
+color: white;
+
+text-align:center;
+padding:50px;
+margin:30px;
+}
+.lastpart{
+  background-color: #444444;
+}
+.first-class{
+  margin:2rem 10rem;
+}
+.az{
+  color: white;
+  margin-top:  2rem;
+}
+.aa{
+  margin-left: 2rem;
+}
+.df{
+  margin:2rem;
+}
